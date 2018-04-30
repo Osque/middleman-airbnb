@@ -1,0 +1,9 @@
+- name: Tokyo
+  description: La ville du sushi
+  img_url: "http://media.routard.com/image/39/5/tokyo.1484395.104.jpg"
+- name: Rio
+  img_url: "https://img.ev.mu/images/villes/6786/1605x642/6786.jpg"
+  description: Code à Copa Cabana !
+- name: Casablanca
+  img_url: "http://www.challenge.ma/wp-content/uploads/2017/03/Casablanca-4.jpg"
+  description: Inch'Allah ça le fait
